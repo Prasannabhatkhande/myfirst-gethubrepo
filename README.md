@@ -1,4 +1,4 @@
 # myfirst-gethubrepo
 this is my first repository.
 <br>
-Auther- Prasanna Bhatkhanade
+Auther- Prasanna Bhatkhanade (chinu)
